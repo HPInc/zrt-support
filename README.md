@@ -33,6 +33,8 @@ snap install --classic zrt
 
 Navigate to "Issues" and select the "New issue" button to file a bug report or a request for new functionality. Please use the defined templates so we receive helpful information about your bug or idea. We appreciate your input!
 
+Note that you must be logged in to GitHub to file an issue.
+
 ## Documentation
 
 Learn more at https://zdocs.datascience.hp.com/docs/zruntime/overview
